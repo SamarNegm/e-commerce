@@ -1,0 +1,6 @@
+DB_URL=
+PORT=
+HOST=
+JWT_SECRET=
+
+CLIENT_URL=http://localhost:5050
